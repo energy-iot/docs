@@ -1,7 +1,33 @@
 # Security Policy
 
-To report a security issue, please email security@eiot.energy .
+## Overview
+
+Energy IoT Open Source takes the security of our software products and services seriously, which includes all source code repositories managed through our GitHub organization.
+
+If you believe you have found a security vulnerability in any Energinet-owned repository, please report it to us as described below.
 
 The Energy IoT Open Source Security Team will respond within 5 working days of your report.
 
-We use email for our intake, and do coordination and disclosure here using GitHub Security Advisory to privately discuss and fix the issue.
+## Reporting Security Issues
+
+**Please do not report security vulnerabilities through public GitHub issues.**
+
+To report a security issue, please report them to our program management [Here](mailto:security@eiot.energy)
+
+You should receive a response within 24 hours. If for some reason you do not, please follow up via email to ensure we received your original message.
+
+Please include the requested information listed below (as much as you can provide) to help us better understand the nature and scope of the possible issue:
+
+* Type of issue (e.g. buffer overflow, SQL injection, cross-site scripting, etc.)
+* Full paths of source file(s) related to the manifestation of the issue
+* The location of the affected source code (tag/branch/commit or direct URL)
+* Any special configuration required to reproduce the issue
+* Step-by-step instructions to reproduce the issue
+* Proof-of-concept or exploit code (if possible)
+* Impact of the issue, including how an attacker might exploit the issue
+
+This information will help us triage your report more quickly.
+
+## Preferred Languages
+
+We prefer all communications to be in English.
