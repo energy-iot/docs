@@ -6,3 +6,4 @@ Current naming convention for integrated repos is docker-<oss-project>, for exam
 
 Documentation about Energy IoT Open Source is stored in the docs repository.
 
+Check also the www.eiot.energy website.
