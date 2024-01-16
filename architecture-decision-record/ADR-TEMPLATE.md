@@ -1,6 +1,6 @@
 # [short title of solved problem and solution]
 version 1.0
-
+# Use git commit -s
 * Status: [proposed | rejected | accepted | deprecated | … | superseded by [ADR-xxxx]] <!-- optional -->
 * Deciders: [list everyone involved in the decision] <!-- optional -->
 * Date: [YYYY-MM-DD when the decision was last updated] <!-- optional -->
