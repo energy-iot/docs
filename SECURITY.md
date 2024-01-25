@@ -12,7 +12,7 @@ The Energy IoT Open Source Security Team will respond within 5 working days of y
 
 **Please do not report security vulnerabilities through public GitHub issues.**
 
-To report a security issue, please report them to our program management [Here](mailto:security@eiot.energy)
+To report a security issue, please report them to our program management [Here](mailto:eiot@axmsoftware.com)
 
 You should receive a response within 24 hours. If for some reason you do not, please follow up via email to ensure we received your original message.
 
