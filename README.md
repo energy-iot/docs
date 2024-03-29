@@ -6,6 +6,8 @@ Current naming convention for integrated repos is docker-<oss-project>, for exam
 
 Documentation about Energy IoT Open Source is stored in the docs repository.
 
+How to contribute and engage with Energy IoT Open Source is managed on the Wiki.
+
 All changes require signed commits. (git commit -s)
 
 Please use feature branches, default feature branch is dev.
